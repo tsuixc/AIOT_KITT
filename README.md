@@ -1,7 +1,7 @@
 ## AIOT_KITT
 A creative idea to build up an "AIOT ROBOT" to let "POLICE SECURITY PATROLS" always on & always there.
 
-<img src="https://github.com/tsuixc/AIOT_KITT/blob/master/wiki/images/AIOT_KR11.jpg" width="375" alt="AIOT KITT">
+<img src="https://github.com/tsuixc/AIOT_KITT/blob/master/wiki/images/AIOT_KR111.jpg" width="375" alt="AIOT KITT">
   
 **AIOT KITT** is the name of my project initiative, a conceptual AIOT Robot based on the capabilities of NVIDIA Jetson Nano's AI edge computing , JetBot's mobility, and Aerial Drones' alterability/anonymity..., aim at **"Transforming future police security patrols with AIOT".** 
 
