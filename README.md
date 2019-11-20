@@ -1,5 +1,5 @@
 ## AIOT_KITT
-A creative idea to build up an "AIOT ROBOT" to let "POLICE SECURITY PATROLS" always on & always there.
+A creative idea of building an "AIOT ROBOT" to let "POLICE SECURITY PATROLS" always on & always there.
 
 <img src="https://github.com/tsuixc/AIOT_KITT/blob/master/wiki/images/AIOT_KR111.jpg" width="375" alt="AIOT KITT">
   
